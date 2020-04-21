@@ -1,11 +1,11 @@
 Library_Demo<br />  
 In the client directory, you can run:<br /> 
--`npm install`<br /> 
--`npm start` <br /> 
+`npm install`<br /> 
+`npm start` <br /> 
 In the server directory, firstly you should change parameteres in the dev.env file and you can run:<br /> 
--`npm install`<br /> 
--`npm start`<br /> 
--`npm run dev`<br /> 
+`npm install`<br /> 
+`npm start`<br /> 
+`npm run dev`<br /> 
 
 The app runs in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br /> 
