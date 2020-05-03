@@ -7,7 +7,7 @@ import ReactMapGL, { Marker } from 'react-map-gl';
 import AppBar from './Appbar'
 import Pin from './pin'
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiYmFraHNoaXlldiIsImEiOiJjazdhdnA4eDIwYWs2M2Vyd2Q4bzVpbjFuIn0.H_SsrZv0cqwWdPZfPzIklA'
+mapboxgl.accessToken = 'API_Token'
 
 
 /* class Maps extends Component {
